@@ -1,2 +1,2 @@
 # -react-js-tutorial
-Code Differently Dev team starting our app. 
+Code Differently Dev team doing the Complete React Tutorial (2020). 
